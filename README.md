@@ -1,5 +1,6 @@
 # Face Mask Detection Project
-- This is a computer vision project I learned in DL courses.
+- This is a CV project I learned in DL courses.
+
 ### Techniques 
 - MobileNetV2 (CNN)
 - VGG (Transfer Learning)
